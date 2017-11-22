@@ -31,4 +31,8 @@ public class FFdebugCalc {
         }
         return min;
     }
+    
+    public static void test(){
+        System.out.println("Je ne sais trop quoi t'écrire mais je vais quand même te le dire !");
+    }
 }
