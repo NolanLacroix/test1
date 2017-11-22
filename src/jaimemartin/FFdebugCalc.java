@@ -7,7 +7,7 @@ package JaimeMartin;
 
 /**
  *
- * @author martin
+ * @author martin & Nolan !
  */
 
 public class FFdebugCalc {
